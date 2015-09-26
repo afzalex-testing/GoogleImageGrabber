@@ -1,0 +1,2880 @@
+18/05/15 12:14:56.492 > Grabber > showHelp() > Error : java.io.FileNotFoundException: res\GoogleHelp.txt (The system cannot find the path specified)
+18/05/15 11:27:30.228 > Grabber > showHelp() > Error : java.lang.NullPointerException
+18/05/15 11:28:25.250 > Grabber > showHelp() > Error : java.lang.NullPointerException
+18/05/15 12:58:21.489 > Grabber > [command line] > Error : java.lang.NumberFormatException: null
+18/05/15 12:58:48.613 > Grabber > [command line] > Error : java.lang.NumberFormatException: null
+18/05/15 01:04:52.768 > Grabber > [command line] > Error : java.lang.ArrayIndexOutOfBoundsException: Coordinate out of bounds!
+18/05/15 01:06:07.945 > Grabber > [command line] > Error : java.lang.ArrayIndexOutOfBoundsException: Coordinate out of bounds!
+18/05/15 01:06:55.401 > Grabber > [command line] > Error : java.lang.ArrayIndexOutOfBoundsException: Coordinate out of bounds!
+18/05/15 11:33:48.393 > Grabber > [command line] > Error : java.lang.StringIndexOutOfBoundsException: String index out of range: 13518
+18/05/15 11:55:55.423 > Grabber > [command line] > Error : java.util.regex.PatternSyntaxException: Dangling meta character '?' near index 0
+?<:href
+^
+18/05/15 11:59:36.395 > Grabber > [command line] > Error : java.util.regex.PatternSyntaxException: Dangling meta character '?' near index 0
+?<=href
+^
+19/05/15 12:00:22.497 > Grabber > [command line] > Error : java.util.regex.PatternSyntaxException: Dangling meta character '?' near index 0
+?<=href
+^
+19/05/15 12:03:16.192 > Grabber > [command line] > Error : java.util.regex.PatternSyntaxException: Look-behind group does not have an obvious maximum length near index 16
+(?<=\<a.*href\=\").*(?=\>)
+                ^
+19/05/15 01:58:25.411 > Grabber > [command line] > Error : java.lang.IndexOutOfBoundsException: Index: 18, Size: 18
+19/05/15 03:28:49.076 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:28:52.789 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:33:58.381 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:34:31.609 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:34:38.130 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:36:15.054 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:36:21.356 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:37:08.219 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:37:09.639 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:37:14.381 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+19/05/15 03:37:47.329 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+23/05/15 06:07:26.361 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+23/05/15 06:16:58.724 > Grabber > showHelp() > Error : java.io.FileNotFoundException: file:\E:\documents\Afzal\NetBeans\GoogleImageGrabber\dist\GoogleImageGrabber.jar!\res\GrabberHelp.txt (The filename, directory name, or volume label syntax is incorrect)
+23/05/15 06:25:05.324 > Grabber > showHelp() > Error : java.nio.file.FileSystemNotFoundException
+23/05/15 06:25:12.188 > Grabber > showHelp() > Error : java.nio.file.FileSystemNotFoundException
+23/05/15 06:29:52.180 > ResourceHelper > getProjectResource(String "GrabberHelp.txt") > Error : java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key GrabberHelp.txt
+23/05/15 06:29:52.180 > ResourceHelper > getProjectResource(String "GrabberHelp.txt") > Error : java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key GrabberHelp.txt
+23/05/15 06:39:20.838 > Grabber > showHelp() > Error : java.lang.IllegalArgumentException: URI is not hierarchical
+23/05/15 07:34:32.457 > Compiler > createImages() > Error : java.lang.NullPointerException
+23/05/15 07:41:38.981 > Compiler > createImages() > Error : java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+23/05/15 07:43:53.330 > Compiler > createClones() > Error : java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+23/05/15 07:55:26.275 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.275 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.275 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.275 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.275 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.291 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.307 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.322 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.338 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.353 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.369 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.385 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.400 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.416 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.431 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.447 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.463 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.478 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.494 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.509 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.525 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.541 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.556 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.556 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.556 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.587 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.587 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.587 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.587 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.603 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.619 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.634 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.650 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.665 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.681 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.697 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:55:26.712 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 4
+.+\..{,3}
+    ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.055 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.071 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.087 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.102 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.102 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.102 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.118 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.133 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.149 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.165 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.180 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.196 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.211 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.227 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.243 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.258 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.274 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.289 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.305 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.321 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.321 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.321 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.321 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.321 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.336 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.336 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.336 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.336 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.352 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.367 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.383 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.399 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.399 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.399 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.399 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.430 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.445 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.461 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.477 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.492 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.508 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.523 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 07:57:15.539 > Compiler > createClones() > Error : java.util.regex.PatternSyntaxException: Illegal repetition near index 6
+.+(\.).{,3}
+      ^
+23/05/15 08:05:08.636 > Compiler > createClones() > Unable to create clone directory
+23/05/15 08:05:56.577 > Compiler > createClones() > Unable to create clone directory
+23/05/15 08:07:32.508 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.554 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.617 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.617 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.726 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.726 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.929 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.976 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:32.976 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:33.116 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:33.147 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:33.303 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:33.506 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:34.036 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:34.411 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:34.426 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:34.660 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:35.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:35.440 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:35.799 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:36.033 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:36.064 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:36.408 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:36.548 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:36.876 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.110 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.141 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.141 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.250 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.734 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:37.874 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:07:38.124 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.926 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.926 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.926 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.926 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.942 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.942 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.942 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.942 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.957 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.957 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.957 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.957 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.973 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.973 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.973 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.988 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:13.988 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.004 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.020 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.020 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.020 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.035 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.051 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.051 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.051 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.051 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.051 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.066 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.082 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.082 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.082 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.082 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.098 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.098 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.098 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.098 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.113 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.129 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.129 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.129 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.129 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.129 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.144 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.160 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.176 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.191 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.207 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.222 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.238 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.254 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.269 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.285 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.300 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.316 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.332 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.347 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.363 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.378 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.394 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.410 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.425 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.441 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.456 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.472 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.488 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.503 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.519 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.534 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.550 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.550 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.550 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.566 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.581 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.597 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.612 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.612 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.612 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.612 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.612 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.628 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.659 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.659 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.659 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.675 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.690 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.690 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.690 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.690 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.706 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.706 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.706 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.706 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.722 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.737 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.737 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.737 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.737 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.737 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.753 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.768 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.784 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.800 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.815 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.831 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.846 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.846 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.846 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.862 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.878 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.893 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.909 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.909 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.909 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.909 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.909 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.924 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+23/05/15 08:08:14.940 > Compiler > createClones() > Error : java.lang.NullPointerException
+24/05/15 08:10:49.340 > ResourceHelper > getImageResource(File "C:\Users\afzalex\Downloads\wallpapers\amazing\amazing.ping") > Error : javax.imageio.IIOException: Can't read input file!
+24/05/15 08:10:49.341 > Compiler > compileScreenShot() > Error java.lang.NullPointerException
+24/05/15 08:10:50.377 > ResourceHelper > getImageResource(File "C:\Users\afzalex\Downloads\wallpapers\amazing\amazing.ping") > Error : javax.imageio.IIOException: Can't read input file!

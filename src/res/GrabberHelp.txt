@@ -1,0 +1,23 @@
+********************  H E L P  *********************
+    -d    -display           to display gui
+    -c    -corrector         to correct urls 
+    -lu   -listurls          to list urls only
+    -lf   -listallfilenames  to list all file names of each image from xml
+    -ld   -listdata          to list data of each image from xml
+    -ssid -showselectedimagedata  to show data of only selected images
+    -pmd  -printmarkeddata   to print streaming data on screen
+    -ps   -printsize         to only print number of images and urls
+    -gss  -googlescreenshot  to provide google screenshot
+    -gxml -googlexml         to provide google xml
+    -od   -outputdir         to provide output directory
+    -ai   -addimages         to create images
+    -ac   -addclones         to create clones
+    -db   -debug             for internal use only
+
+    In firefox developer toolbar enter following command 
+        screenshot walls.png --selector #rg_s
+        inspect #rg_s
+    Now COPY OUTER HTML
+    paste and save in a file in UTF-8
+    Then use this application
+****************************************************

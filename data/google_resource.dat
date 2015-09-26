@@ -1,0 +1,16 @@
+#Background color in screenshot image
+google_background_color_r=241
+google_background_color_g=241
+google_background_color_b=241
+
+compiled_output_directory_name_pre=compiled_
+compiled_output_image_directory_name=images
+compiled_output_clone_directory_name=clones
+compiled_output_image_name_pre=image_
+
+selected_images_urls_output_file=selectedimagesurl.txt
+selected_images_data_output_file=selectedimgagesdata.txt
+
+listallurls_output_file=allurls.txt
+listallfilenames_output_file=alldata.txt
+listalldata_output_file=alldata.txt
