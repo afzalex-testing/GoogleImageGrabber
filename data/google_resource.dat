@@ -1,7 +1,7 @@
 #Background color in screenshot image
-google_background_color_r=241
-google_background_color_g=241
-google_background_color_b=241
+google_background_color_r=255
+google_background_color_g=255
+google_background_color_b=255
 
 compiled_output_directory_name_pre=compiled_
 compiled_output_image_directory_name=images

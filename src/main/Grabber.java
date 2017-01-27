@@ -24,6 +24,13 @@ import res.ResourceHelper;
 public class Grabber {
 
     public static void main(String... args) {
+        /*args = new String[]{
+            "-gss",
+            "test/walls.png",
+            "-gxml",
+            "test/walls.xml",
+            "-d"
+        };*/
         try {
             TreeSet<Command> set = Command.readCommands(args);
             if (set.isEmpty() || set.contains(Command.invalid)) {

@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -354,6 +355,7 @@ public class Compiler {
             Pattern metaSide = Pattern.compile("(?<=((\\{|\\,)\\\"s\\\"\\s?:\\s?\\\")).*?(?=\\\")");
 
             Matcher mat1, mat2, mat3;
+            String url;
             try (Scanner sc = new Scanner(new FileInputStream(googleXML))) {
                 while (sc.hasNextLine()) {
                     ArrayList<Match> lineMatches = new ArrayList<>();
@@ -399,7 +401,13 @@ public class Compiler {
                         }
                         mat1 = imgurlPat.matcher(match.tagahref);
                         if (mat1.find()) {
-                            gid.setUrl(mat1.group());
+                            url = mat1.group();
+                            try{
+                                gid.setUrl(java.net.URLDecoder.decode(url, "UTF-8"));
+                            } catch (UnsupportedEncodingException ex){
+                                gid.setUrl(url);
+                                ResourceHelper.errLog("Compiler > compileXML() > URL: %s > Error : %s", url, ex);
+                            }
                         }
                         mat1 = imgwPat.matcher(match.tagahref);
                         if (mat1.find()) {
